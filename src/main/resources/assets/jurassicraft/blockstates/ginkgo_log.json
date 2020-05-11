@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "jurassicraft:ginkgo_log"
+    },
+    "axis=z": {
+      "model": "jurassicraft:ginkgo_log",
+	  "x": 90
+    },
+    "axis=x": {
+      "model": "jurassicraft:ginkgo_log",
+      "x": 90, "y": 90
+    },
+    "axis=none": {
+      "model": "jurassicraft:ginkgo_bark"
+    }
+  }
+}

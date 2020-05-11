@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "jurassicraft:liriodendrites_bottom"
+    },
+    "half=upper": {
+      "model": "jurassicraft:liriodendrites_top"
+    }
+  }
+}

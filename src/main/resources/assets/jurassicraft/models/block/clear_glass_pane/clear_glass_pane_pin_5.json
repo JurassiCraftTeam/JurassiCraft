@@ -1,0 +1,19 @@
+{
+	"ambientocclusion": false,
+    "textures": {
+        "particle": "jurassicraft:blocks/clear_glass/clear_glass_frame",
+		"pane": "jurassicraft:blocks/clear_glass/clear_glass_frame"
+    },
+    "elements": [
+        {   "from": [ 7, 0, 7 ],
+            "to": [ 9, 16, 9 ],
+            "faces": {
+                "up":    { "uv": [  7, 7,  9,  9 ], "texture": "#pane" },
+				"down":    { "uv": [  7, 7,  9,  9 ], "texture": "#pane" },
+				"south": { "uv": [  9, 0,  7, 16 ], "texture": "#pane" },
+				"east": { "uv": [  9, 0,  7, 16 ], "texture": "#pane" },
+				"west": { "uv": [  9, 0,  7, 16 ], "texture": "#pane" }
+            }
+        }
+    ]
+}

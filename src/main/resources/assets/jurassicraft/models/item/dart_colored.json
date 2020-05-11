@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jurassicraft:items/dart_base",
+    "layer1": "jurassicraft:items/dart_overlay"
+  }
+}

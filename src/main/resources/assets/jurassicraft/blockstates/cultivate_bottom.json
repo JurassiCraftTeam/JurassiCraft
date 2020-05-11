@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "color=white": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_white"
+    },
+    "color=orange": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_orange"
+    },
+    "color=magenta": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_magenta"
+    },
+    "color=light_blue": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_light_blue"
+    },
+    "color=yellow": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_yellow"
+    },
+    "color=lime": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_lime"
+    },
+    "color=pink": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_pink"
+    },
+    "color=gray": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_gray"
+    },
+    "color=silver": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_silver"
+    },
+    "color=cyan": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_cyan"
+    },
+    "color=purple": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_purple"
+    },
+    "color=blue": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_blue"
+    },
+    "color=brown": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_brown"
+    },
+    "color=green": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_green"
+    },
+    "color=red": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_red"
+    },
+    "color=black": {
+      "model": "jurassicraft:cultivator/bottom/cultivate_bottom_black"
+    }
+  }
+}

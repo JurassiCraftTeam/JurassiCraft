@@ -1,0 +1,118 @@
+{
+    "multipart": [
+        {   "apply": { "model": "jurassicraft:clear_glass_pane_post" }},
+        {   "when": { "north": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_1" }
+        },
+        {   "when": { "east": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_1", "y": 90 }
+        },
+        {   "when": { "south": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_1", "y": 180 }
+        },
+        {   "when": { "west": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_1", "y": 270 }
+        },
+		{   "when": { "blocknorth": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_1" }
+        },
+        {   "when": { "blockeast": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_1", "y": 90 }
+        },
+        {   "when": { "blocksouth": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_1", "y": 180 }
+        },
+        {   "when": { "blockwest": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_1", "y": 270 }
+        },
+		
+		{   "when": { "north": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_2" }
+        },
+        {   "when": { "east": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_2", "y": 90 }
+        },
+        {   "when": { "south": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_2", "y": 180 }
+        },
+        {   "when": { "west": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_2", "y": 270 }
+        },
+		{   "when": { "blocknorth": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_2" }
+        },
+        {   "when": { "blockeast": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_2", "y": 90 }
+        },
+        {   "when": { "blocksouth": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_2", "y": 180 }
+        },
+        {   "when": { "blockwest": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_2", "y": 270 }
+        },
+		
+		
+		{   "when": { "north": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_3" }
+        },
+        {   "when": { "east": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_3", "y": 90 }
+        },
+        {   "when": { "south": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_3", "y": 180 }
+        },
+        {   "when": { "west": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_3", "y": 270 }
+        },
+		{   "when": { "blocknorth": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_3" }
+        },
+        {   "when": { "blockeast": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_3", "y": 90 }
+        },
+        {   "when": { "blocksouth": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_3", "y": 180 }
+        },
+        {   "when": { "blockwest": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_3", "y": 270 }
+        },
+		
+		{   "when": { "north": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_0" }
+        },
+        {   "when": { "east": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_0", "y": 90 }
+        },
+        {   "when": { "south": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_0", "y": 180 }
+        },
+        {   "when": { "west": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_frameless_0", "y": 270 }
+        },
+		{   "when": { "blocknorth": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_0" }
+        },
+        {   "when": { "blockeast": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_0", "y": 90 }
+        },
+        {   "when": { "blocksouth": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_0", "y": 180 }
+        },
+        {   "when": { "blockwest": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_side_0", "y": 270 }
+        },
+		
+        {   "when": { "north": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_noside" }
+        },
+        {   "when": { "east": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_noside_alt" }
+        },
+        {   "when": { "south": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_noside_alt", "y": 90 }
+        },
+        {   "when": { "west": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane_noside", "y": 270 }
+        }
+    ]
+}

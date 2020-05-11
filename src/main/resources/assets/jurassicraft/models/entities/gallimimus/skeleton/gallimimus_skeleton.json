@@ -1,0 +1,15 @@
+{
+	"version": 0,
+	"poses": {
+		"IDLE": {
+			"variants": {
+				"0": [
+					{
+						"pose": "gallimimus_skeleton_idle",
+						"time": 1
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "jurassicraft:phoenix_log_petrified"
+    },
+    "axis=z": {
+      "model": "jurassicraft:phoenix_log_petrified",
+	   "x": 90
+    },
+    "axis=x": {
+      "model": "jurassicraft:phoenix_log_petrified",
+      "x": 90, "y": 90
+    },
+    "axis=none": {
+      "model": "jurassicraft:phoenix_petrified_bark"
+    }
+  }
+}

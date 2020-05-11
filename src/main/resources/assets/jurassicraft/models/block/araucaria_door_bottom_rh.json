@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_bottom_rh",
+  "textures": {
+    "bottom": "jurassicraft:blocks/door_araucaria_lower",
+    "top": "jurassicraft:blocks/door_araucaria_upper"
+  }
+}

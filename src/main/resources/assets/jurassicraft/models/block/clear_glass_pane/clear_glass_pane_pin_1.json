@@ -1,0 +1,17 @@
+{
+	"ambientocclusion": false,
+    "textures": {
+        "particle": "jurassicraft:blocks/clear_glass/clear_glass_frame",
+		"pane": "jurassicraft:blocks/clear_glass/clear_glass_top",
+		"top": "jurassicraft:blocks/clear_glass/clear_glass_frame"
+    },
+    "elements": [
+        {   "from": [ 7, 0, 7 ],
+            "to": [ 9, 16, 9 ],
+            "faces": {
+                "north": { "uv": [  9, 0,  7, 16 ], "texture": "#pane" },
+				"down":  { "uv": [  7, 7,  9,  9 ], "texture": "#top" }
+            }
+        }
+    ]
+}

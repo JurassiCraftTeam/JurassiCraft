@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:reinforced_glass_pane",
+  "pattern": [
+    "   ",
+    "GGG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "jurassicraft:reinforced_glass",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:reinforced_glass_pane",
+    "data": 0,
+    "count": 16
+  }
+}

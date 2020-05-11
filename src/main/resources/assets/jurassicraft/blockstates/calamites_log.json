@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "jurassicraft:calamites_log"
+    },
+    "axis=z": {
+      "model": "jurassicraft:calamites_log",
+	  "x": 90
+    },
+    "axis=x": {
+      "model": "jurassicraft:calamites_log",
+      "x": 90, "y": 90
+    },
+    "axis=none": {
+      "model": "jurassicraft:calamites_bark"
+    }
+  }
+}

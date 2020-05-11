@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "axis=y": {
+      "model": "jurassicraft:calamites_log_petrified"
+    },
+    "axis=z": {
+      "model": "jurassicraft:calamites_log_petrified",
+	  "x": 90
+    },
+    "axis=x": {
+      "model": "jurassicraft:calamites_log_petrified",
+      "x": 90, "y": 90
+    },
+    "axis=none": {
+      "model": "jurassicraft:calamites_petrified_bark"
+    }
+  }
+}

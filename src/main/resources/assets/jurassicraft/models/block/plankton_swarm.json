@@ -1,0 +1,6 @@
+{
+  "parent": "jurassicraft:block/swarm",
+  "textures": {
+    "all": "jurassicraft:blocks/plankton_swarm"
+  }
+}

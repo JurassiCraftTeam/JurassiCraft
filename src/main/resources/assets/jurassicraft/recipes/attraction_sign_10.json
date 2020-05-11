@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:attraction_sign",
+  "ingredients": [
+    {
+      "item": "jurassicraft:attraction_sign",
+      "data": 8
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:attraction_sign",
+    "data": 9
+  }
+}

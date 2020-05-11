@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "jurassicraft:calamites_planks"
+    },
+    "half=top": {
+      "model": "jurassicraft:calamites_planks"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:vehicle_item",
+  "pattern": [
+    "RWG",
+    "LCR",
+    "YYY"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:dye",
+      "data": 1
+    },
+    "W": {
+      "item": "minecraft:glass_pane"
+    },
+    "G": {
+      "item": "minecraft:dye",
+      "data": 2
+    },
+    "L": {
+      "item": "minecraft:dye",
+      "data": 10
+    },
+    "C": {
+      "item": "jurassicraft:unfinished_car"
+    },
+    "Y": {
+      "item": "minecraft:dye",
+      "data": 11
+    }
+  },
+  "result": {
+    "item": "jurassicraft:vehicle_item",
+    "data": 0
+  }
+}

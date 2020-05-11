@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "jurassicraft:blocks/plants/wild_onion/stage_5"
+  }
+}

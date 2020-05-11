@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:reinforced_glass",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "A": {
+      "item": "jurassicraft:clear_glass",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:reinforced_glass",
+    "data": 0,
+    "count": 8
+  }
+}

@@ -1,0 +1,307 @@
+{
+    "multipart": [
+		
+        {   "when": { "north": true, "blocknorth": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_1" }
+        },
+        {   "when": { "east": true, "blockeast": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_1", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_1", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_1", "y": 270 }
+        },
+		{   "when": { "north": false, "blocknorth": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_1" }
+        },
+        {   "when": { "east": false, "blockeast": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_1", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_1", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": true, "up": true, "down": false},
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_1", "y": 270 }
+        },
+		
+		{   "when": { "north": true, "blocknorth": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0" }
+        },
+        {   "when": { "east": true, "blockeast": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": true, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 270 }
+        },
+		{   "when": { "north": true, "blocknorth": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2" }
+        },
+        {   "when": { "east": true, "blockeast": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 270 }
+        },
+		{   "when": { "north": true, "blocknorth": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2" }
+        },
+        {   "when": { "east": true, "blockeast": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 270 }
+        },
+		{   "when": { "north": true, "blocknorth": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0" }
+        },
+        {   "when": { "east": true, "blockeast": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 270 }
+        },
+	
+	
+		
+		
+		{   "when": { "north": true, "blocknorth": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2" }
+        },
+        {   "when": { "east": true, "blockeast": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_2", "y": 270 }
+        },
+		{   "when": { "north": false, "blocknorth": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_2" }
+        },
+        {   "when": { "east": false, "blockeast": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_2", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_2", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": true, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_2", "y": 270 }
+        },
+		
+		
+		
+		
+		{   "when": { "north": true, "blocknorth": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_3" }
+        },
+        {   "when": { "east": true, "blockeast": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_3", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_3", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_3", "y": 270 }
+        },
+		{   "when": { "north": false, "blocknorth": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_3" }
+        },
+        {   "when": { "east": false, "blockeast": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_3", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_3", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": true, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_3", "y": 270 }
+        },
+		
+		{   "when": { "north": true, "blocknorth": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0" }
+        },
+        {   "when": { "east": true, "blockeast": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 90 }
+        },
+        {   "when": { "south": true, "blocksouth": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 180 }
+        },
+        {   "when": { "west": true, "blockwest": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_frameless_0", "y": 270 }
+        },
+		{   "when": { "north": false, "blocknorth": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_0" }
+        },
+        {   "when": { "east": false, "blockeast": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_0", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_0", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": true, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_side_0", "y": 270 }
+        },
+		
+		
+		
+		
+		
+		{   "when": { "north": false, "blocknorth": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_0" }
+        },
+        {   "when": { "east": false, "blockeast": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_0", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_0", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": false, "up": false, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_0", "y": 270 }
+        },
+		
+		{   "when": { "north": false, "blocknorth": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_1" }
+        },
+        {   "when": { "east": false, "blockeast": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_1", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_1", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": false, "up": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_1", "y": 270 }
+        },
+		
+		{   "when": { "north": false, "blocknorth": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_2" }
+        },
+        {   "when": { "east": false, "blockeast": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_2", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_2", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": false, "up": false, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_2", "y": 270 }
+        },
+		
+		{   "when": { "north": false, "blocknorth": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_3" }
+        },
+        {   "when": { "east": false, "blockeast": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_3", "y": 90 }
+        },
+        {   "when": { "south": false, "blocksouth": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_3", "y": 180 }
+        },
+        {   "when": { "west": false, "blockwest": false, "up": true, "down": true },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_3", "y": 270 }
+        },
+		
+		{   "when": { "north": true, "east": true, "south": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "east": true, "south": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "blockeast": true, "south": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "blockeast": true, "blocksouth": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "blockeast": true, "blocksouth": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "east": true, "blocksouth": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "east": true, "blocksouth": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "blocknorth": true, "east": true, "south": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "blockeast": true, "south": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "east": true, "blocksouth": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "east": true, "south": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "blockeast": true, "blocksouth": true, "west": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "blockeast": true, "blocksouth": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "blockeast": true, "south": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		{   "when": { "north": true, "east": true, "blocksouth": true, "blockwest": true, "up": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4" }
+        },
+		
+		{   "when": { "north": true, "east": true, "south": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "east": true, "south": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "blockeast": true, "south": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "blockeast": true, "blocksouth": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "blockeast": true, "blocksouth": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "east": true, "blocksouth": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "east": true, "blocksouth": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "blocknorth": true, "east": true, "south": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "blockeast": true, "south": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "east": true, "blocksouth": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "east": true, "south": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "blockeast": true, "blocksouth": true, "west": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "blockeast": true, "blocksouth": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "blockeast": true, "south": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        },
+		{   "when": { "north": true, "east": true, "blocksouth": true, "blockwest": true, "down": false },
+            "apply": { "model": "jurassicraft:clear_glass_pane/clear_glass_pane_pin_4", "x": 180 }
+        }
+    ]
+}

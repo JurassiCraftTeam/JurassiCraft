@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "jurassicraft:encephalartos_bottom"
+    },
+    "half=upper": {
+      "model": "jurassicraft:encephalartos_top"
+    }
+  }
+}

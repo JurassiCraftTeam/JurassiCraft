@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "normal": [
+      {
+        "model": "jurassicraft:plant_fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:plant_fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:plant_fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:plant_fossil_block_3",
+        "weight": 1
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jurassicraft:items/egg/mussaurus",
+    "layer1": "jurassicraft:items/overlay/mussaurus"
+  }
+}

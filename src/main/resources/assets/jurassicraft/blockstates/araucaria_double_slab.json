@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "jurassicraft:araucaria_planks"
+    },
+    "half=top": {
+      "model": "jurassicraft:araucaria_planks"
+    }
+  }
+}

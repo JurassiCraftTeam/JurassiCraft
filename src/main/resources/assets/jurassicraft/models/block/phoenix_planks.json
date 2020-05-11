@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "jurassicraft:blocks/planks_phoenix"
+  }
+}

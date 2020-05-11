@@ -1,0 +1,629 @@
+{
+	"version": 0,
+	"poses": {
+		"IDLE": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 20
+					}
+				]
+			}
+		},
+		"SLEEPING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_sleeping_1",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_sleeping_2",
+						"time": 8
+					},
+					{
+						"pose": "tyrannosaurus_adult_sleeping_3",
+						"time": 5
+					},
+					{
+						"pose": "tyrannosaurus_adult_sleeping_4",
+						"time": 5
+					},
+					{
+						"pose": "tyrannosaurus_adult_sleeping_5",
+						"time": 8
+					},
+					{
+						"pose": "tyrannosaurus_adult_sleeping_6",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_sleeping_7",
+						"time": 15
+					}
+				]
+			}
+		},
+		"RESTING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_resting_1",
+						"time": 10
+					},
+					{
+                        "pose": "tyrannosaurus_adult_resting_2",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_resting_3",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_resting_4",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_resting_5",
+                        "time": 8
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_resting_6",
+                        "time": 20
+                    }
+				]
+			}
+		},
+		"WALKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_walking_1",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_2",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_3",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_4",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_5",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_6",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_7",
+						"time": 3.5
+					},
+					{
+						"pose": "tyrannosaurus_adult_walking_8",
+						"time": 3.5
+					}
+				]
+			}
+		},
+		"RUNNING": {
+			"variants": {
+				"0": [
+					{
+                        "pose": "tyrannosaurus_adult_running_1",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_2",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_3",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_4",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_5",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_6",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_7",
+                        "time": 4
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_running_8",
+                        "time": 4
+                    }
+				]
+			}
+		},
+		"SWIMMING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_swimming_1",
+						"time": 6
+					},
+					{
+						"pose": "tyrannosaurus_adult_swimming_2",
+						"time": 6
+					},
+					{
+						"pose": "tyrannosaurus_adult_swimming_3",
+						"time": 6
+					},
+					{
+						"pose": "tyrannosaurus_adult_swimming_4",
+						"time": 6
+					},
+					{
+                        "pose": "tyrannosaurus_adult_swimming_5",
+                        "time": 6
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_swimming_6",
+                        "time": 6
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_swimming_7",
+                        "time": 6
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_swimming_8",
+                        "time": 6
+                    }
+				]
+			}
+		},
+		"SPEAK": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_speak_1",
+						"time": 6
+					},
+					{
+						"pose": "tyrannosaurus_adult_speak_1",
+						"time": 15
+					},
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 6
+					}
+				]
+			}
+		},
+		"CALLING": {
+            "variants": {
+                "0": [
+                    {
+                        "pose": "tyrannosaurus_adult_calling_1",
+                        "time": 6
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_calling_2",
+                        "time": 8
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_calling_3",
+                        "time": 26
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_calling_4",
+                        "time": 20
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_idle",
+                        "time": 8
+                    }
+                ]
+            }
+        },
+		"DYING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_death_1",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_2",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_3",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_4",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_5",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_6",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_7",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_8",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_9",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_death_10",
+						"time": 4
+					}
+				]
+			}
+		},
+		"ROARING": {
+			"variants": {
+				"0": [
+				 {
+                        "pose": "tyrannosaurus_adult_roaring_1_1",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_1_2",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_1_3",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_1_4",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_1_5",
+                        "time": 15
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_1_6",
+                        "time": 15
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_1_7",
+                        "time": 15
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_1_8",
+                        "time": 15
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_1_9",
+                        "time": 15
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_idle",
+                        "time": 10
+                    }
+				],
+				"1": [
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_2_1",
+                        "time": 10
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_2_2",
+                        "time": 10
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_2_3",
+                        "time": 15
+                    },
+                      {
+                        "pose": "tyrannosaurus_adult_roaring_2_4",
+                        "time": 20
+                    },
+                      {
+                        "pose": "tyrannosaurus_adult_roaring_2_5",
+                        "time": 13
+                    },
+                      {
+                        "pose": "tyrannosaurus_adult_roaring_2_6",
+                        "time": 8
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_idle",
+                        "time": 8
+                    }
+                    
+                ],
+                "2": [
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_3_1",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_3_2",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_3_3",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_3_4",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_3_5",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_roaring_3_6",
+                        "time": 10
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_3_7",
+                        "time": 10
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_3_8",
+                        "time": 10
+                    },
+                     {
+                        "pose": "tyrannosaurus_adult_roaring_3_9",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_idle",
+                        "time": 10
+                    }
+                    
+                ]
+			}
+		},
+		"EATING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_eating_1",
+						"time": 15
+					},
+					{
+						"pose": "tyrannosaurus_adult_eating_2",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_eating_3",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_eating_4",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_eating_6",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_eating_7",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_eating_8",
+						"time": 10
+					},
+					{
+                        "pose": "tyrannosaurus_adult_eating_9",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_10",
+                        "time": 15
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_11",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_12",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_13",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_14",
+                        "time": 8
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_15",
+                        "time": 8
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_eating_16",
+                        "time": 8
+                    },
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 12
+					}
+				]
+			}
+		},
+		"DRINKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_drinking_1",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_drinking_2",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_drinking_3",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_drinking_4",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_drinking_5",
+						"time": 10
+					},
+					{
+                        "pose": "tyrannosaurus_adult_drinking_6",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_drinking_7",
+                        "time": 10
+                    },
+                    {
+                        "pose": "tyrannosaurus_adult_drinking_8",
+                        "time": 10
+                    },
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"ATTACKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_attacking_1",
+						"time": 6
+					},
+					{
+						"pose": "tyrannosaurus_adult_attacking_2",
+						"time": 5
+					},
+					{
+						"pose": "tyrannosaurus_adult_attacking_3",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"LOOKING_LEFT": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_look_left_1",
+						"time": 20
+					},
+					{
+						"pose": "tyrannosaurus_adult_look_left_1",
+						"time": 18
+					},
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 13
+					}
+				]
+			}
+		},
+		"LOOKING_RIGHT": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_look_right_1",
+						"time": 20
+					},
+					{
+						"pose": "tyrannosaurus_adult_look_right_1",
+						"time": 18
+					},
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 13
+					}
+				]
+			}
+		},
+		"INJURED": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_injured_1",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_injured_2",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_injured_3",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_injured_4",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_injured_5",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_injured_6",
+						"time": 4
+					},
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"LAYING_EGG": {
+			"variants": {
+				"0": [
+					{
+						"pose": "tyrannosaurus_adult_egglaying_1",
+						"time": 10
+					},
+					{
+						"pose": "tyrannosaurus_adult_egglaying_2",
+						"time": 20
+					},
+					{
+						"pose": "tyrannosaurus_adult_egglaying_3",
+						"time": 20
+					},
+					{
+						"pose": "tyrannosaurus_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		}
+	}
+}

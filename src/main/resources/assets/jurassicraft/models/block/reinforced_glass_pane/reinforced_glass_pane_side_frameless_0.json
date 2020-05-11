@@ -1,0 +1,9 @@
+{
+    "parent": "jurassicraft:block/pane_side",
+    "textures": {
+        "edge": "jurassicraft:blocks/reinforced_glass/reinforced_glass_frame",
+		"floor": "jurassicraft:blocks/reinforced_glass/reinforced_glass_frame",
+		"top": "jurassicraft:blocks/reinforced_glass/reinforced_glass_frame",
+        "pane": "jurassicraft:blocks/reinforced_glass/reinforced_glass_left_right"
+    }
+}

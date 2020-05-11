@@ -1,0 +1,35 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "jurassicraft:disc_reader",
+  "pattern": [
+    "ABC",
+    "D  ",
+    "DDE"
+  ],
+  "key": {
+    "D": {
+      "type": "forge:ore_dict",
+      "ore": "nuggetIron"
+    },
+    "B": {
+      "item": "jurassicraft:laser",
+      "data": 0
+    },
+    "C": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "E": {
+      "item": "minecraft:stone_button",
+      "data": 0
+    },
+    "A": {
+      "item": "jurassicraft:advanced_circuit",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:disc_reader",
+    "data": 0
+  }
+}

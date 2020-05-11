@@ -1,0 +1,12 @@
+[
+    {
+        "modid": "jurassicraft",
+        "name": "JurassiCraft",
+        "version": "${version}",
+		"mcversion": "${mcversion}",
+        "authorList": ["JurassiCraft Team"],
+        "url": "https://minecraft.curseforge.com/projects/jurassicraft",
+        "dependencies": [],
+        "description": "JurassiCraft is a mod based on Jurassic Park and Jurassic World franchises, but is not only limited to it. This mod allows you to create dinosaurs by extracting DNA from fossils and amber, and putting that through a process until you get a baby dinosaur! Not only does this mod add dinosaurs, it also adds many prehistoric plants, decorations, vehicles and much more!"
+    }
+]

@@ -1,0 +1,15 @@
+{
+	"version": 0,
+	"poses": {
+		"IDLE": {
+			"variants": {
+				"0": [
+					{
+						"pose": "triceratops_skeleton_idle",
+						"time": 1
+					}
+				]
+			}
+		}
+	}
+}

@@ -1,0 +1,52 @@
+{
+  "variants": {
+    "variant=0": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=1": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=2": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=3": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=4": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=5": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=6": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=7": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=8": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=9": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=10": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=11": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=12": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=13": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=14": {
+      "model": "jurassicraft:encased_fossil_1"
+    },
+    "variant=15": {
+      "model": "jurassicraft:encased_fossil_1"
+    }
+  }
+}

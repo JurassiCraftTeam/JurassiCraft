@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:plant_cells_petri_dish",
+  "ingredients": [
+    {
+      "item": "jurassicraft:plant_cells",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:petri_dish_agar",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:plant_cells_petri_dish",
+    "data": 0
+  }
+}

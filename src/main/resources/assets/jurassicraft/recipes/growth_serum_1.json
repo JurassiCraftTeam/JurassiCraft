@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:growth_serum",
+  "ingredients": [
+    {
+      "item": "minecraft:golden_carrot",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:empty_syringe",
+      "data": 0
+    },
+    {
+      "item": "minecraft:water_bucket",
+      "data": 0
+    },
+    {
+      "item": "minecraft:cooked_chicken",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:growth_serum",
+    "data": 0
+  }
+}

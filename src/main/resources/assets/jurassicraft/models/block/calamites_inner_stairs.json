@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "jurassicraft:blocks/planks_calamites",
+    "top": "jurassicraft:blocks/planks_calamites",
+    "side": "jurassicraft:blocks/planks_calamites"
+  }
+}

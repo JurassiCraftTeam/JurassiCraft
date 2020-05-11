@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jurassicraft:items/bones/microraptor_leg_bones"
+  }
+}

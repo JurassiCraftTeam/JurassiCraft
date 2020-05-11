@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "jurassicraft:blocks/door_ginkgo_lower",
+    "top": "jurassicraft:blocks/door_ginkgo_upper"
+  }
+}

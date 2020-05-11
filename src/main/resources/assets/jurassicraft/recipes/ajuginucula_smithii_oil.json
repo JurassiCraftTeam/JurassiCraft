@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:ajuginucula_smithii_oil",
+  "ingredients": [
+    {
+      "item": "jurassicraft:ajuginucula_smithii_leaves",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:ajuginucula_smithii_leaves",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:ajuginucula_smithii_leaves",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:ajuginucula_smithii_leaves",
+      "data": 0
+    },
+    {
+      "item": "minecraft:glass_bottle",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:ajuginucula_smithii_oil",
+    "data": 0
+  }
+}

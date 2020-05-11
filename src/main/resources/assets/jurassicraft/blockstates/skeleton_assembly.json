@@ -1,0 +1,15 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "half": {
+      "main": {"model": "jurassicraft:skeleton_assembly.tbl"},
+      "dummy": {"model": "jurassicraft:blank_model"}
+    },
+    "facing": {
+      "north": {"y": 0},
+      "south": {"y": 180},
+      "west": {"y": 270},
+      "east": {"y": 90}
+    }
+  }
+}

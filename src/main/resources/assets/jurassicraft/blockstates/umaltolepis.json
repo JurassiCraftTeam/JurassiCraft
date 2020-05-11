@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "jurassicraft:umaltolepis_bottom"
+    },
+    "half=upper": {
+      "model": "jurassicraft:umaltolepis_top"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "forge:ore_shapeless",
+  "group": "jurassicraft:advanced_circuit",
+  "ingredients": [
+    {
+      "item": "jurassicraft:basic_circuit",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:basic_circuit",
+      "data": 0
+    },
+    {
+      "type": "forge:ore_dict",
+      "ore": "nuggetIron"
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "data": 0
+    },
+    {
+      "item": "minecraft:redstone",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:advanced_circuit",
+    "data": 0
+  }
+}

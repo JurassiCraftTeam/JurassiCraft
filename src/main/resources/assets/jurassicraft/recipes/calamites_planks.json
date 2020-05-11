@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:calamites_planks",
+  "ingredients": [
+    {
+      "item": "jurassicraft:calamites_log",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:calamites_planks",
+    "data": 0,
+    "count": 4
+  }
+}

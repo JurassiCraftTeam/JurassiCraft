@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "check_decay=false,decayable=false": {
+      "model": "jurassicraft:phoenix_leaves"
+    },
+    "check_decay=true,decayable=false": {
+      "model": "jurassicraft:phoenix_leaves"
+    },
+    "check_decay=true,decayable=true": {
+      "model": "jurassicraft:phoenix_leaves"
+    },
+    "check_decay=false,decayable=true": {
+      "model": "jurassicraft:phoenix_leaves"
+    }
+  }
+}

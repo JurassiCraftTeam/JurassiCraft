@@ -1,0 +1,7 @@
+{
+  "parent": "block/column_side",
+  "textures": {
+    "end": "jurassicraft:blocks/log_ginkgo_petrified_top",
+    "side": "jurassicraft:blocks/log_ginkgo_petrified"
+  }
+}

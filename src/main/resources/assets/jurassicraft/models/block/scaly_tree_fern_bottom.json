@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "jurassicraft:blocks/plants/scaly_tree_fern_bottom"
+  }
+}

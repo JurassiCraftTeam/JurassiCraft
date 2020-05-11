@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "minecraft:dye",
+  "ingredients": [
+    {
+      "item": "jurassicraft:rhamnus_salicifolius_seeds",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:rhamnus_salicifolius_seeds",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:rhamnus_salicifolius_seeds",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:rhamnus_salicifolius_seeds",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "minecraft:dye",
+    "data": 0
+  }
+}

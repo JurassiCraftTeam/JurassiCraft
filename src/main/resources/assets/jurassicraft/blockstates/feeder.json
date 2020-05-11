@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "jurassicraft:feeder"
+    },
+    "facing=north": {
+      "model": "jurassicraft:feeder"
+    },
+    "facing=west": {
+      "model": "jurassicraft:feeder"
+    },
+    "facing=east": {
+      "model": "jurassicraft:feeder"
+    },
+    "facing=up": {
+      "model": "jurassicraft:feeder"
+    },
+    "facing=down": {
+      "model": "jurassicraft:feeder"
+    }
+  }
+}

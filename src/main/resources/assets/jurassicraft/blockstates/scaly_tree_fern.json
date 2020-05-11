@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "jurassicraft:scaly_tree_fern_bottom"
+    },
+    "half=upper": {
+      "model": "jurassicraft:scaly_tree_fern_top"
+    }
+  }
+}

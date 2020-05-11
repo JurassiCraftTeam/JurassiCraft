@@ -1,0 +1,24 @@
+{
+    "forge_marker": 1,
+    "defaults": {
+        "model": "forge:multi-layer",
+        "custom": {
+
+            "base": "jurassicraft:enallhelia#plant",
+
+            "Mipped Cutout": "jurassicraft:enallhelia#plant",
+            "Translucent": "jurassicraft:enallhelia#water"
+        },
+        "transform": "forge:default-block"
+     },
+    "variants": {
+        "normal": [{}],
+        "inventory": [{}],
+        "water": [{
+            "model": "jurassicraft:stylophyllopsis/water"
+        }],
+        "plant": [{
+            "model": "jurassicraft:enallhelia/base"
+        }]
+    }
+}

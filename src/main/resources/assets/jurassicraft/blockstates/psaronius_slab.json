@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=bottom": {
+      "model": "jurassicraft:half_slab_psaronius"
+    },
+    "half=top": {
+      "model": "jurassicraft:upper_slab_psaronius"
+    }
+  }
+}

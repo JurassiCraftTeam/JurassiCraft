@@ -1,0 +1,15 @@
+{
+	"ambientocclusion": false,
+    "textures": {
+        "particle": "jurassicraft:blocks/clear_glass/clear_glass_frame",
+		"top": "jurassicraft:blocks/clear_glass/clear_glass_frame"
+    },
+    "elements": [
+        {   "from": [ 7, 0, 7 ],
+            "to": [ 9, 16, 9 ],
+            "faces": {
+                "up":    { "uv": [  7, 7,  9,  9 ], "texture": "#top" }
+            }
+        }
+    ]
+}

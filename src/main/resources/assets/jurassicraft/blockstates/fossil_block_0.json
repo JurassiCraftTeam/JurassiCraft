@@ -1,0 +1,292 @@
+{
+  "variants": {
+    "variant=0": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=1": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=2": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=3": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=4": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=5": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=6": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=7": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=8": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=9": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=10": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=11": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=12": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=13": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=14": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ],
+    "variant=15": [
+      {
+        "model": "jurassicraft:fossil_block_0",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_1",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_2",
+        "weight": 1
+      },
+      {
+        "model": "jurassicraft:fossil_block_3",
+        "weight": 1
+      }
+    ]
+  }
+}

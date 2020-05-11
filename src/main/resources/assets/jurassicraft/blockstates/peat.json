@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "moisture=0": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=1": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=2": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=3": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=4": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=5": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=6": {
+      "model": "jurassicraft:peat"
+    },
+    "moisture=7": {
+      "model": "jurassicraft:peat"
+    }
+  }
+}

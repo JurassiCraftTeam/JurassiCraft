@@ -1,0 +1,85 @@
+{
+  "textures": {
+    "3": "jurassicraft:blocks/reinforced_glass/reinforced_glass_bottom_left_right",
+    "2": "jurassicraft:blocks/reinforced_glass/reinforced_glass_bottom_left",
+    "14": "jurassicraft:blocks/reinforced_glass/reinforced_glass_top_left_right",
+    "4": "jurassicraft:blocks/reinforced_glass/reinforced_glass_bottom_right",
+    "particle": "jurassicraft:blocks/reinforced_glass/reinforced_glass"
+  },
+  "elements": [
+    {
+      "name": "Cube",
+      "from": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "to": [
+        16.0,
+        16.0,
+        16.0
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "texture": "#3",
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "cullface": "north"
+        },
+        "east": {
+          "texture": "#4",
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "cullface": "east"
+        },
+        "south": {
+          "texture": "#3",
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ]
+        },
+        "west": {
+          "texture": "#2",
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "cullface": "west"
+        },
+        "up": {
+          "texture": "#14",
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ]
+        },
+        "down": {
+          "texture": "#3",
+          "uv": [
+            0.0,
+            0.0,
+            16.0,
+            16.0
+          ],
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

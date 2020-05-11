@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:phoenix_seeds",
+  "ingredients": [
+    {
+      "item": "jurassicraft:phoenix_fruit",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:phoenix_seeds",
+    "data": 0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "jurassicraft:items/hatched_egg/gallimimus",
+    "layer1": "jurassicraft:items/overlay/gallimimus"
+  }
+}

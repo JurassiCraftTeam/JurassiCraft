@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "layer0": "jurassicraft:blocks/low_security_fence_wire",
+    "particle": "blocks/iron_block"
+  },
+  "tabula": "jurassicraft:models/block/low_security_fence_wire"
+}

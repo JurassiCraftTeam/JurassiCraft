@@ -1,0 +1,485 @@
+{
+	"version": 0,
+	"poses": {
+		"IDLE": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 20
+					}
+				]
+			}
+		},
+		"RESTING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_resting",
+						"time": 20
+					}
+				]
+			}
+		},
+		"SLEEPING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_sleeping_1",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_sleeping_2",
+						"time": 15
+					}
+				]
+			}
+		},
+		"SPEAK": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_speak",
+						"time": 8
+					},
+					{
+						"pose": "microraptor_adult_speak",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 8
+					}
+				]
+			}
+		},
+		"INJURED": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_injured",
+						"time": 6
+					},
+					{
+						"pose": "microraptor_adult_injured",
+						"time": 8
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 6
+					}
+				]
+			}
+		},
+		"LOOKING_LEFT": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_looking_left",
+						"time": 8
+					},
+					{
+						"pose": "microraptor_adult_looking_left",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 8
+					}
+				]
+			}
+		},
+		"LOOKING_RIGHT": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_looking_right",
+						"time": 8
+					},
+					{
+						"pose": "microraptor_adult_looking_right",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 8
+					}
+				]
+			}
+		},
+		"CALLING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_calling",
+						"time": 8
+					},
+					{
+						"pose": "microraptor_adult_calling",
+						"time": 8
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 8
+					}
+				]
+			}
+		},
+		"DYING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_death_1",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_death_2",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_death_3",
+						"time": 3
+					},
+					{
+						"pose": "microraptor_adult_death_4",
+						"time": 4
+					}
+				]
+			}
+		},
+		"WALKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_walking_1",
+						"time": 1.25
+					},
+					{
+						"pose": "microraptor_adult_walking_2",
+						"time": 1.25
+					},
+					{
+						"pose": "microraptor_adult_walking_3",
+						"time": 1.25
+					},
+					{
+						"pose": "microraptor_adult_walking_4",
+						"time": 1.25
+					}
+				]
+			}
+		},
+		"CLIMBING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_climb_1",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_climb_2",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_climb_3",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_climb_4",
+						"time": 10
+					}
+				]
+			}
+		},
+		"START_CLIMBING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_climb_start",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_climb_start",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 5
+					}
+				]
+			}
+		},
+		"RUNNING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_running_1",
+						"time": 2
+					},
+					{
+						"pose": "microraptor_adult_running_2",
+						"time": 2
+					},
+					{
+						"pose": "microraptor_adult_running_3",
+						"time": 2
+					},
+					{
+						"pose": "microraptor_adult_running_4",
+						"time": 2
+					}
+				]
+			}
+		},
+		"EATING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_eating_1",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_eating_2",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_eating_3",
+						"time": 6
+					},
+					{
+						"pose": "microraptor_adult_eating_4",
+						"time": 20
+					},
+					{
+						"pose": "microraptor_adult_eating_5",
+						"time": 7
+					},
+					{
+						"pose": "microraptor_adult_eating_5",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_eating_4",
+						"time": 7
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"DRINKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_drinking_1",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_drinking_1",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_drinking_2",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_drinking_2",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 15
+					}
+				]
+			}
+		},
+		"HEAD_COCKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_head_cock_1",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_head_cock_2",
+						"time": 4
+					},
+					{
+						"pose": "microraptor_adult_head_cock_2",
+						"time": 15
+					},
+					{
+						"pose": "microraptor_adult_head_cock_1",
+						"time": 4
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"PREENING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_preening_1",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_preening_2",
+						"time": 7
+					},
+					{
+						"pose": "microraptor_adult_preening_2",
+						"time": 2
+					},
+					{
+						"pose": "microraptor_adult_preening_1",
+						"time": 7
+					},
+					{
+						"pose": "microraptor_adult_preening_2",
+						"time": 7
+					},
+					{
+						"pose": "microraptor_adult_preening_2",
+						"time": 2
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"PREPARE_LEAP": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_climb_start",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_climb_start",
+						"time": 5
+					}
+				]
+			}
+		},
+		"LEAP": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_leap_1",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_leap_1",
+						"time": 2
+					},
+					{
+						"pose": "microraptor_adult_leap_2",
+						"time": 5
+					},
+					{
+						"pose": "microraptor_adult_leap_3",
+						"time": 5
+					}
+				]
+			}
+		},
+		"LEAP_LAND": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_landing_1",
+						"time": 4
+					},
+					{
+						"pose": "microraptor_adult_landing_2",
+						"time": 2
+					}
+				]
+			}
+		},
+		"ATTACKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_attack_1",
+						"time": 6
+					},
+					{
+						"pose": "microraptor_adult_attack_2",
+						"time": 6
+					},
+					{
+						"pose": "microraptor_adult_attack_3",
+						"time": 4
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 6
+					}
+				]
+			}
+		},
+		"LAYING_EGG": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_laying_1",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_laying_2",
+						"time": 20
+					},
+					{
+						"pose": "microraptor_adult_laying_3",
+						"time": 20
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"TAIL_DISPLAY": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_taildisplay_1",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_taildisplay_2",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_taildisplay_3",
+						"time": 10
+					},
+					{
+						"pose": "microraptor_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"GLIDING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "microraptor_adult_gliding_1",
+						"time": 20
+					}
+				]
+			}
+		}
+	}
+}

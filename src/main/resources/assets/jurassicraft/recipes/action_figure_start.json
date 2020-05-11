@@ -1,0 +1,21 @@
+{
+  "type": "forge:ore_shaped",
+  "group": "jurassicraft:action_figure",
+  "pattern": [
+    " C ",
+    "SSS"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:clay_ball"
+    },
+    "S": {
+      "type": "forge:ore_dict",
+      "ore": "slabWood"
+    }
+  },
+  "result": {
+    "item": "jurassicraft:display_block_item",
+    "data": 12
+  }
+}

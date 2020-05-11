@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:paleo_bale_leaves",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "jurassicraft:calamites_leaves",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:paleo_bale_leaves",
+    "data": 0
+  }
+}

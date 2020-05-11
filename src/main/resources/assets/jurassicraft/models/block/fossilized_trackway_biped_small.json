@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_top",
+  "textures": {
+    "top": "jurassicraft:blocks/fossilized_trackway_biped_small",
+    "side": "jurassicraft:blocks/fossilized_trackway"
+  }
+}

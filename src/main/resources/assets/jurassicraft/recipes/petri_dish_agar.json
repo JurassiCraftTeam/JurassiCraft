@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jurassicraft:petri_dish_agar",
+  "ingredients": [
+    {
+      "item": "jurassicraft:petri_dish",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:petri_dish",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:petri_dish",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:petri_dish",
+      "data": 0
+    },
+    {
+      "item": "jurassicraft:liquid_agar",
+      "data": 0
+    }
+  ],
+  "result": {
+    "item": "jurassicraft:petri_dish_agar",
+    "data": 0,
+    "count": 4
+  }
+}

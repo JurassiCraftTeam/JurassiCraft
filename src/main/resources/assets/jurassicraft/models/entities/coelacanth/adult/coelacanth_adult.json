@@ -1,0 +1,137 @@
+{
+	"version": 0,
+	"poses": {
+		"IDLE": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_idle",
+						"time": 20
+					}
+				]
+			}
+		},
+		"DYING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_death",
+						"time": 10
+					}
+				]
+			}
+		},
+		"INJURED": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_injured",
+						"time": 10
+					},
+					{
+						"pose": "coelacanth_adult_injured",
+						"time": 10
+					},
+					{
+						"pose": "coelacanth_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"ATTACKING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_eating_1",
+						"time": 5
+					},
+					{
+						"pose": "coelacanth_adult_eating_1",
+						"time": 2
+					},
+					{
+						"pose": "coelacanth_adult_idle",
+						"time": 5
+					}
+				]
+			}
+		},
+		"EATING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_eating_1",
+						"time": 10
+					},
+					{
+						"pose": "coelacanth_adult_eating_1",
+						"time": 5
+					},
+					{
+						"pose": "coelacanth_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		},
+		"ON_LAND": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_land_1",
+						"time": 40
+					},
+					{
+						"pose": "coelacanth_adult_land_2",
+						"time": 40
+					}
+				]
+			}
+		},
+		"SWIMMING": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_swimming_1",
+						"time": 6
+					},
+					{
+						"pose": "coelacanth_adult_swimming_2",
+						"time": 6
+					},
+					{
+						"pose": "coelacanth_adult_swimming_3",
+						"time": 6
+					},
+					{
+						"pose": "coelacanth_adult_swimming_4",
+						"time": 6
+					}
+				]
+			}
+		},
+		"GIVING_BIRTH": {
+			"variants": {
+				"0": [
+					{
+						"pose": "coelacanth_adult_givingbirth_1",
+						"time": 10
+					},
+					{
+						"pose": "coelacanth_adult_givingbirth_2",
+						"time": 10
+					},
+					{
+						"pose": "coelacanth_adult_givingbirth_3",
+						"time": 10
+					},
+					{
+						"pose": "coelacanth_adult_idle",
+						"time": 10
+					}
+				]
+			}
+		}
+	}
+}

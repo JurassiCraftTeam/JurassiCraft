@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:ginkgo_slab",
+  "pattern": [
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "jurassicraft:ginkgo_planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:ginkgo_slab",
+    "data": 0,
+    "count": 6
+  }
+}

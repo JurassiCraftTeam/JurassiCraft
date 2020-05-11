@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "jurassicraft:rhamnus/stage_0"
+    },
+    "age=1": {
+      "model": "jurassicraft:rhamnus/stage_1"
+    },
+    "age=2": {
+      "model": "jurassicraft:rhamnus/stage_2"
+    },
+    "age=3": {
+      "model": "jurassicraft:rhamnus/stage_3"
+    },
+    "age=4": {
+      "model": "jurassicraft:rhamnus/stage_4"
+    },
+    "age=5": {
+      "model": "jurassicraft:rhamnus/stage_5"
+    },
+    "age=6": {
+      "model": "jurassicraft:rhamnus/stage_6"
+    },
+    "age=7": {
+      "model": "jurassicraft:rhamnus/stage_7"
+    }
+  }
+}

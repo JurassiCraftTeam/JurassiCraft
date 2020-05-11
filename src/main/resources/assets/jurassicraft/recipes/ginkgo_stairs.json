@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:ginkgo_stairs",
+  "pattern": [
+    "A  ",
+    "AA ",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "jurassicraft:ginkgo_planks",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:ginkgo_stairs",
+    "data": 0,
+    "count": 4
+  }
+}

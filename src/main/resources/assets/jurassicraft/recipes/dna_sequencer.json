@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jurassicraft:dna_sequencer",
+  "pattern": [
+    "ABA",
+    "CBA",
+    "DBE"
+  ],
+  "key": {
+    "C": {
+      "item": "jurassicraft:computer_screen",
+      "data": 0
+    },
+    "B": {
+      "item": "jurassicraft:dna_analyzer",
+      "data": 0
+    },
+    "D": {
+      "item": "jurassicraft:disc_reader",
+      "data": 0
+    },
+    "A": {
+      "item": "minecraft:iron_ingot",
+      "data": 0
+    },
+    "E": {
+      "item": "jurassicraft:keyboard",
+      "data": 0
+    }
+  },
+  "result": {
+    "item": "jurassicraft:dna_sequencer",
+    "data": 0
+  }
+}
