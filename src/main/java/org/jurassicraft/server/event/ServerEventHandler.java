@@ -76,24 +76,32 @@ public class ServerEventHandler {
 
     @SubscribeEvent
     public static void tickEvent(TickEvent.WorldTickEvent event) {
-        if (event.world.getTotalWorldTime() % 20 == 0) {
-            WorldServer world = event.world.getMinecraftServer().getWorld(0);
-            Chunk[] chunklist = world.getChunkProvider().getLoadedChunks().toArray(new Chunk[0]);
-            int randomChunk = ThreadLocalRandom.current().nextInt(0, chunklist.length);
+        if (event.world.getTotalWorldTime() % 20 != 0) {
+            return;
+        }
 
-            Random random = new Random();
-            int zeroX = chunklist[randomChunk].getPos().getXStart() + random.nextInt(16);
-            int zeroZ = chunklist[randomChunk].getPos().getZStart() + random.nextInt(16);
-            BlockPos.MutableBlockPos mutualBlockPos;
+        // sanity check in case no chunks are loaded
+        // (e.g. right after world load in some edge cases)
+        if (chunklist.length == 0) {
+            return;
+        }
+        
+        WorldServer world = event.world.getMinecraftServer().getWorld(0);
+        Chunk[] chunklist = world.getChunkProvider().getLoadedChunks().toArray(new Chunk[0]);
+        int randomChunk = ThreadLocalRandom.current().nextInt(0, chunklist.length);
 
-            if(!(world.getBiomeForCoordsBody(mutualBlockPos = new BlockPos.MutableBlockPos(zeroX, 0, zeroZ)) instanceof BiomeSwamp))
-                return;
+        Random random = new Random();
+        int zeroX = chunklist[randomChunk].getPos().getXStart() + random.nextInt(16);
+        int zeroZ = chunklist[randomChunk].getPos().getZStart() + random.nextInt(16);
+        BlockPos.MutableBlockPos mutualBlockPos;
 
-            for (int i = 255; i > -1; i--) {
-                if (world.getBlockState(mutualBlockPos.setPos(zeroX, i, zeroZ)).getBlock() instanceof BlockDirt && world.getBlockState(mutualBlockPos.setPos(zeroX, i + 1, zeroZ)).getBlock() instanceof BlockGrass) {
-                    world.setBlockState(mutualBlockPos.setPos(zeroX, i, zeroZ), BlockHandler.PEAT.getDefaultState());
-                    break;
-                }
+        if(!(world.getBiomeForCoordsBody(mutualBlockPos = new BlockPos.MutableBlockPos(zeroX, 0, zeroZ)) instanceof BiomeSwamp))
+            return;
+
+        for (int i = 255; i > -1; i--) {
+            if (world.getBlockState(mutualBlockPos.setPos(zeroX, i, zeroZ)).getBlock() instanceof BlockDirt && world.getBlockState(mutualBlockPos.setPos(zeroX, i + 1, zeroZ)).getBlock() instanceof BlockGrass) {
+                world.setBlockState(mutualBlockPos.setPos(zeroX, i, zeroZ), BlockHandler.PEAT.getDefaultState());
+                break;
             }
         }
     }
